@@ -48,3 +48,5 @@ CloudFlare is a content delivery network that provides services like Internet se
 
 https://hackerone.com/reports/376060
  
+
+Special thanks to @mertistaken @A_Burak_Gokalp
